@@ -149,20 +149,21 @@
     
     <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
     
-    <p>28 Total Players</p>
+    <p>48 Total Players</p>
     
     <p class="underscore">Starters</p>
     <ul>
         <li>QB</li>
         <li>RB</li>
-        <li>RB</li>
-        <li>WR</li>
-        <li>WR</li>
+        <li>2-WR</li>
         <li>TE</li>
-        <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
-        <li>D/ST</li>
+        <li>2-RB/WR/TE</li>
+        <li>3-DL</li>
+        <li>3-LB</li>
+        <li>6-DB</li>
+        <li>2-DL/LB/DB</li>
         <li>K</li>
+
     </ul>
     
     <p>18 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
