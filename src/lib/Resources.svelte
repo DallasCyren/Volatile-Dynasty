@@ -4,6 +4,13 @@ import { dynasty } from './utils/helper';
 
     const today = new Date();
     const resources = [
+            {
+            name: "Over the Cap",
+            url: "https://overthecap.com/",
+            icon: "insights",
+            premium: true,
+            separator: true,
+        },
         {
             name: "FTN Fantasy",
             url: "https://www.ftnfantasy.com/nfl",
