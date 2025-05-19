@@ -96,7 +96,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">Volatile Dynasty League</h1>
+    <h1 class="noUnderscore">Volatile Dynasty League-UNDER CONTRUCTION</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
