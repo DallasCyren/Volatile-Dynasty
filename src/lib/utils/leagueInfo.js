@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to Volatile Dynasty.</p>
+  <p></p>
 `;
 
 /*   STEP 3   */
@@ -21,9 +21,8 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": 15,
       "managerID": "1068431841838841856",
-      "name": "Dnnis Mitchell",
+      "name": "Dennis Mitchell",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Dallas, GA", // (optional)
       "bio": "Retired, bored and looking for things to do like this to keep me young",
