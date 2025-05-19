@@ -21,8 +21,9 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
+      "roster": 15,
       "managerID": "1068431841838841856",
-      "name": "Dennis",
+      "name": "Dnnis Mitchell",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Dallas, GA", // (optional)
       "bio": "Retired, bored and looking for things to do like this to keep me young",
