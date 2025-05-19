@@ -177,7 +177,7 @@
         <h4 bind:this={oneOneOne}>1.1.1 Taxi Squad</h4>
         
         <div class="subBlock">
-                <p>Each team has a developmental roster that does not count toward the active roster player limit with six slots available, commonly called a taxi squad. Players at any position may be placed on the taxi squad before the first game of their rookie season. Players on the taxi squad may be moved to an active roster at any time but will lose all future taxi squad eligibility once moved to an active roster. Players will also lose future eligibility if cut or traded. Players may remain on a taxi squad for their first season in the NFL after which they must be cut, traded, or activated. .</p>
+                <p>Each team has a developmental roster that does not count toward the active roster player limit with six slots available, commonly called a taxi squad. Players at any position may be placed on the taxi squad before the first game of their rookie season. Players on the taxi squad may be moved to an active roster at any time but will lose all future taxi squad eligibility once moved to an active roster. Players will also lose future eligibility if cut or traded. Players may remain on a taxi squad for their first season in the NFL after which they must be cut, traded, or activated.</p>
 
         </div>
 
