@@ -151,7 +151,11 @@
     
     <p>48 Total Players</p>
     
-    <p class="underscore">Starters</p>
+            <div class="subBlock">
+                <p>Legal, active rosters are limited to 48 players. Rosters also contain ten additional IR spots which can be used for players with IR or PUP designations. Rosters that are over the player limit or have ineligible players on IR are considered illegal. Members with illegal rosters will not be able to add free agents or edit their starting lineup until their roster is made legal again. Starting lineups must have:</p>
+
+        </div><p class="underscore">Starters</p>
+
     <ul>
         <li>QB</li>
         <li>RB</li>
