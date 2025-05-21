@@ -4,7 +4,7 @@ import { dynasty } from './utils/helper';
 
     const today = new Date();
     const resources = [
-            {
+         {
             name: "Over the Cap",
             url: "https://overthecap.com/",
             icon: "insights",
@@ -12,6 +12,12 @@ import { dynasty } from './utils/helper';
             separator: true,
         },
         {
+            name: "The IDP Center",
+            url: "https://www.theidpcenter.com//",
+            icon: "insights",
+            premium: true,
+            separator: true,
+        },{
             name: "FTN Fantasy",
             url: "https://www.ftnfantasy.com/nfl",
             icon: "insights",
