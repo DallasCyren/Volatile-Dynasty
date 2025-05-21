@@ -19,6 +19,13 @@ import { dynasty } from './utils/helper';
             separator: true,
         },
         {
+            name: "Pro Football Rumors",
+            url: "https://www.profootballrumors.com/",
+            icon: "insights",
+            premium: true,
+            separator: true,
+        },
+        {
             name: "The IDP Center",
             url: "https://www.theidpcenter.com/",
             icon: "insights",
