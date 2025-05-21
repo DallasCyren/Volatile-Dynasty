@@ -11,23 +11,23 @@ import { dynasty } from './utils/helper';
             premium: true,
             separator: true,
         },
-              {
+         {
             name: "Pro Football Reference",
-            url: "https://www.pro-football-reference.com//",
+            url: "https://www.pro-football-reference.com/",
             icon: "insights",
             premium: true,
             separator: true,
         },
         {
             name: "Pro Football Rumors",
-            url: "https://www.profootballrumors.com//",
+            url: "https://www.profootballrumors.com/",
             icon: "insights",
             premium: true,
             separator: true,
         }, 
         {
             name: "The IDP Center",
-            url: "https://www.theidpcenter.com//",
+            url: "https://www.theidpcenter.com/",
             icon: "insights",
             premium: true,
             separator: true,
