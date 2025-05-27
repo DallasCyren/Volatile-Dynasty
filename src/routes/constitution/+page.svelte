@@ -24,28 +24,28 @@
 <p>&nbsp;</p>
 <p>**All slow auctions will take place on the League Tycoon platform unless/until Sleeper can adequately support a slow auction.</p>
 <p>&nbsp;</p>
-<h1>Format</h1>
+<h2>Format</h2>
 <p>&nbsp;</p>
 <p>Volatile is a fantasy football league that follows a variation on an "empire league" format. All players are kept from season to season and belong to their teams until they are traded, released, or removed from the player pool or until a team wins the league in consecutive seasons. If a team wins the league in consecutive seasons, each team may keep one offensive player and one defensive player the following season. All other players will be entered into a dispersal auction, and each team will be granted a $2000 startup auction budget. All matchups are head-to-head unless otherwise specified.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h1>Members&rsquo; Responsibility</h1>
+<h2>Members&rsquo; Responsibility</h2>
 <p>&nbsp;</p>
 <p>All members are expected to be active participants who engage in competitive behavior. Uncompetitive behavior may be subject to disciplinary action. If a member plans to abandon their team, they should notify the commissioner in a timely manner.</p>
 <p>&nbsp;</p>
 <p>Discord participation is mandatory. All members are expected to join the league Discord and have notifications for @mentions enabled at a minimum.</p>
 <p>&nbsp;</p>
-<h1>Commissioner</h1>
+<h2>Commissioner</h2>
 <p>&nbsp;</p>
 <p>The league commissioner is Jacob Lunsford. The commissioner oversees all aspects of the league, and with the best interests of the league and its members in mind, has final say on league decisions not otherwise specified in this charter.</p>
-<h1>&nbsp;</h1>
-<h1>Draft</h1>
+<h2>&nbsp;</h2>
+<h2>Draft</h2>
 <p>&nbsp;</p>
 <p>Initial rosters will be built via a slow auction on the League Tycoon platform in May, after the NFL draft. The auction will have a 12 hour nomination period with a 24 hour initial bid clock. If the high bidder changes with less than 12 hours remaining on the bid clock, the bid clock will be reset to 12 hours. After several rounds of nominations, the nomination clock will be reduced. Up to 30 players may be on the auction block at any given time. Each team will have an initial budget of $2000. The auction will end when every team has filled their active roster.</p>
 <p>&nbsp;</p>
 <p>Nomination order will be randomized using 100yardrush.com.</p>
-<h1>&nbsp;</h1>
-<h1>Rosters</h1>
+<h2>&nbsp;</h2>
+<h2>Rosters</h2>
 <p>&nbsp;</p>
 <h2>Active Roster</h2>
 <p>&nbsp;</p>
@@ -70,7 +70,7 @@
 <p>&nbsp;</p>
 <p>Each team has a developmental roster that does not count toward the active roster player limit with six slots available, commonly called a taxi squad. Players at any position may be placed on the taxi squad before the first game of their rookie season. Players on the taxi squad may be moved to an active roster at any time but will lose all future taxi squad eligibility once moved to an active roster. Players will also lose future eligibility if cut or traded. Players may remain on a taxi squad for their first season in the NFL after which they must be cut, traded, or activated.</p>
 <p>&nbsp;</p>
-<h1>Scoring</h1>
+<h2>Scoring</h2>
 <p>&nbsp;</p>
 <p>Fractional and negative points are allowed.</p>
 <p>&nbsp;</p>
@@ -155,7 +155,7 @@
 <li>-4 points per missed PAT</li>
 </ul>
 <h2>&nbsp;</h2>
-<h1>Postseason</h1>
+<h2>Postseason</h2>
 <p>&nbsp;</p>
 <h2>Playoff Bracket</h2>
 <p>&nbsp;</p>
@@ -174,8 +174,8 @@
 <h2>Hamlin Rule</h2>
 <p>&nbsp;</p>
 <p>In the event an NFL game is postponed or canceled during championship week, the league will default to using the official NFL game book to determine the championship week scores. Alternatively, the championship match participants may, within reason, agree to an alternative solution, e.g., using a two week championship format.</p>
-<h1>&nbsp;</h1>
-<h1>Waivers</h1>
+<h2>&nbsp;</h2>
+<h2>Waivers</h2>
 <p>&nbsp;</p>
 <p>Volatile uses a free agent acquisition budget (FAAB) waiver system in which waiver claims are awarded in a weekly blind auction.</p>
 <p>&nbsp;</p>
@@ -193,7 +193,7 @@
 <p>&nbsp;</p>
 <p>Waivers are closed after the championship and will not re-open until the Wednesday before week 1 of the NFL regular season. Teams will be awarded a $300 use-it-or-lose-it FAAB budget at the beginning of each season.</p>
 <p>&nbsp;</p>
-<h1>Trades</h1>
+<h2>Trades</h2>
 <p>&nbsp;</p>
 <h2>Trade Block</h2>
 <p>&nbsp;</p>
@@ -207,8 +207,8 @@
 <p>&nbsp;</p>
 <p>Trades are not final until processed on the platform.</p>
 <p>&nbsp;</p>
-<h1>Dispersal Auctions</h1>
-<h1>&nbsp;</h1>
+<h2>Dispersal Auctions</h2>
+<h2>&nbsp;</h2>
 <h2>Dispersal Teams</h2>
 <p>&nbsp;</p>
 <p>In the event that a team is without an owner at the end of the season, that team's assets will be released into a dispersal pool. Once every team in the league has an owner, recently acquired teams will participate in a dispersal draft for all available veterans.</p>
@@ -221,23 +221,23 @@
 <p>&nbsp;</p>
 <p>The commissioner will propose a time to begin the dispersal draft in the weeks following the Super Bowl. Participants should notify the commissioner if they are unable to be present at the proposed time. The commissioner will make a best effort to accommodate the scheduling needs of all participants.</p>
 <p>&nbsp;</p>
-<h1>Rookie Draft</h1>
+<h2>Rookie Draft</h2>
 <p>&nbsp;</p>
 <p>A rookie draft will be held every season. The commissioner will propose a time to begin the rookie draft soon after the NFL draft. League members should notify the commissioner if they are unable to be present at the proposed time. The commissioner will make a best effort to accommodate the scheduling needs of all league members.</p>
 <p>&nbsp;</p>
 <p>The rookie draft is a six round, linear draft with an 8 hour clock for each selection which pauses overnight. The order of the first eight picks in each round is determined in reverse order of "Toilet Bowl" finish (Toilet Bowl King receives 1.01, runner up for last place receives 1.02, etc.). The order of pick 9-12 are determined in reverse order of regular season all-play record. The final eight picks in each round are determined in reverse order of playoff finish.</p>
 <p>&nbsp;</p>
 <p>Members are not required to cut down their team pre-draft to accommodate draftees, but if draftees bring the roster over the limit, the roster will be considered illegal. As such, members with illegal rosters will be unable to make free agent pickups or lineup changes until the roster is made legal again via release, trade, taxi designation, or IR designation.</p>
-<h1>&nbsp;</h1>
-<h1>Divisions</h1>
+<h2>&nbsp;</h2>
+<h2>Divisions</h2>
 <p>&nbsp;</p>
 <p>The league has four divisions consisting of five teams each. Beginning in the fourth season, following the rookie draft, each of the league semi-finalists from the previous season will take turns selecting which teams they would like to be in their respective divisions. The division draft will be a linear draft in reverse order of finish.This will repeat every three seasons thereafter (2027, 2030, etc).</p>
 <p>&nbsp;</p>
-<h1>Schedule</h1>
+<h2>Schedule</h2>
 <p>&nbsp;</p>
 <p>The commissioner may alter the schedule to ensure that each team plays every other team in their division twice and every team in one other division once. The latest week in the season with no byes will be a divisional matchup. The latest week other than that divisional matchup with no more than two teams on bye may use flexible scheduling. In that week, teams will play one team from a third division based on their places in their respective divisions on the week of the flex-scheduled matchup. Those divisional matchups will rotate annually.</p>
 <p>&nbsp;</p>
-<h1>League Discipline</h1>
+<h2>League Discipline</h2>
 <p>&nbsp;</p>
 <h2>Uncompetitive Behavior</h2>
 <p>&nbsp;</p>
@@ -267,7 +267,7 @@
 <p>&nbsp;</p>
 <p>In the event of a decision to remove a member, after informing the offending member of the decision, the member will have a minimum of 48 hours to appeal the decision.</p>
 <p>&nbsp;</p>
-<h1>Amendment</h1>
+<h2>Amendment</h2>
 <p>&nbsp;</p>
 <p>This league charter may generally be amended if approved by at least 11 members. The commissioner will only vote on charter amendments in the event of a tie. The commissioner has sole discretion on which amendments may be brought to a vote but acknowledges that a league should generally take a form most desirable to its members. If a proposal fails, an identical or nearly identical proposal may generally not be brought to a vote the following season.</p>
 <p>&nbsp;</p>
@@ -277,7 +277,7 @@
 <p>&nbsp;</p>
 <p>Additionally, if the commissioner deems it to be in the best interest of the league, the commissioner may make changes to the league charter that are considered either too minor or too important or urgent to bring to a vote. The commissioner must always inform the league of these changes in a timely manner.&nbsp;</p>
 <p>&nbsp;</p>
-<h1>Trigger Amendments</h1>
+<h2>Trigger Amendments</h2>
 <p>&nbsp;</p>
 <p>The following amendment will automatically be approved pending platform support. This trigger amendment may be nullified before implementation by a vote of 15 league members.</p>
 <p>&nbsp;</p>
