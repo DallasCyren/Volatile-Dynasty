@@ -1,22 +1,3 @@
-<script>
-    import { dues } from '$lib/utils/helper';
-    let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
-    let two, twoOne, twoTwo, twoThree;
-    let three, threeOne;
-    let four, fourOne, fourTwo;
-    let five, fiveOne;
-    let six, sixOne, sixTwo, sixThree;
-    let seven, sevenOne, sevenTwo, sevenThree;
-
-<div class="constitution">
-
-{
-        position: relative;
-        z-index: 1;
-        width: 92%;
-        max-width: 800px;
-        margin: 8em auto 10em;
-    }
 <p><strong>A Volatile Fantasy Football League Charter</strong></p>
 <p>&nbsp;</p>
 <p>League Name: Volatile</p>
