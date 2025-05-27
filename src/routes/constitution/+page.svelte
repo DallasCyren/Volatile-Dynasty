@@ -258,10 +258,10 @@
 <p>&nbsp;</p>
 <h1>Conduct Detrimental to the League</h1>
 <h1>&nbsp;</h1>
-<h1>League members may be removed at any time if they engage in conduct detrimental to the league. Such conduct includes but is not limited to:</h1>
+<p>League members may be removed at any time if they engage in conduct detrimental to the league. Such conduct includes but is not limited to:</p>
 <h1>&nbsp;</h1>
-<h1>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harassment or abusive behavior</h1>
-<h1>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pattern of unresponsiveness</h1>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harassment or abusive behavior</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pattern of unresponsiveness</p>
 <h1>&nbsp;</h1>
 <h1>Removal</h1>
 <p>&nbsp;</p>
