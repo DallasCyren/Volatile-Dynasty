@@ -1,4 +1,3 @@
-}
 <p><strong>A Volatile Fantasy Football League Charter</strong></p>
 <p>&nbsp;</p>
 <p>League Name: Volatile</p>
@@ -271,5 +270,3 @@
 <p>In the event that Sleeper adds more IDP positions, e.g., DE, DT, EDGE, S, CB, the league will adapt our current positions to those more specific positions.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-{
-
