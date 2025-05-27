@@ -1,4 +1,3 @@
-<style>
         {
         position: relative;
         z-index: 1;
@@ -19,11 +18,6 @@
         line-height: 1.2em;
     }
 
-    h3 {
-        text-decoration: underline;
-        font-size: 1.3em;
-        line-height: 1.2em;
-    }
 <p><strong>A Volatile Fantasy Football League Charter</strong></p>
 <p>&nbsp;</p>
 <p>League Name: Volatile</p>
