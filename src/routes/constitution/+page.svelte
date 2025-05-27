@@ -252,18 +252,18 @@
 <li>Not responding to in-season trade offers</li>
 </ul>
 <p>&nbsp;</p>
-<h2>Anti-competitive Behavior</h2>
+<h1>Anti-competitive Behavior</h1>
 <p>&nbsp;</p>
 <p>If a league member is found to have engaged in collusion, they may be subject to removal regardless of probationary status.</p>
 <p>&nbsp;</p>
-<h2>Conduct Detrimental to the League</h2>
-<h2>&nbsp;</h2>
-<h2>League members may be removed at any time if they engage in conduct detrimental to the league. Such conduct includes but is not limited to:</h2>
-<h2>&nbsp;</h2>
-<h2>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harassment or abusive behavior</h2>
-<h2>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pattern of unresponsiveness</h2>
-<h2>&nbsp;</h2>
-<h2>Removal</h2>
+<h1>Conduct Detrimental to the League</h1>
+<h1>&nbsp;</h1>
+<h1>League members may be removed at any time if they engage in conduct detrimental to the league. Such conduct includes but is not limited to:</h1>
+<h1>&nbsp;</h1>
+<h1>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harassment or abusive behavior</h1>
+<h1>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pattern of unresponsiveness</h1>
+<h1>&nbsp;</h2>
+<h1>Removal</h1>
 <p>&nbsp;</p>
 <p>In the event of a decision to remove a member, after informing the offending member of the decision, the member will have a minimum of 48 hours to appeal the decision.</p>
 <p>&nbsp;</p>
