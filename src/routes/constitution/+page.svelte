@@ -3,11 +3,11 @@
 <html lang="en"> 
 <head> 
     <meta charset="UTF-8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="viewport" content="width=device-width, initial-scale=.9"> 
     <title>Margin Example</title> 
     <style> 
         body { 
-            margin: 20px; /* Adjust the margin as needed */ 
+            margin: 40px; /* Adjust the margin as needed */ 
         } 
     </style> 
 </head> 
@@ -252,18 +252,18 @@
 <li>Not responding to in-season trade offers</li>
 </ul>
 <p>&nbsp;</p>
-<h1>Anti-competitive Behavior</h1>
+<h2>Anti-competitive Behavior</h2>
 <p>&nbsp;</p>
 <p>If a league member is found to have engaged in collusion, they may be subject to removal regardless of probationary status.</p>
 <p>&nbsp;</p>
-<h1>Conduct Detrimental to the League</h1>
-<h1>&nbsp;</h1>
+<h2>Conduct Detrimental to the League</h2>
+<p>&nbsp;</p>
 <p>League members may be removed at any time if they engage in conduct detrimental to the league. Such conduct includes but is not limited to:</p>
 <h1>&nbsp;</h1>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harassment or abusive behavior</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pattern of unresponsiveness</p>
 <h1>&nbsp;</h1>
-<h1>Removal</h1>
+<h2>Removal</h2>
 <p>&nbsp;</p>
 <p>In the event of a decision to remove a member, after informing the offending member of the decision, the member will have a minimum of 48 hours to appeal the decision.</p>
 <p>&nbsp;</p>
