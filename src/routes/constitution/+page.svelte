@@ -8,7 +8,8 @@
     let six, sixOne, sixTwo, sixThree;
     let seven, sevenOne, sevenTwo, sevenThree;
 
-  {A Volatile Fantasy Football League Charter
+  {
+A Volatile Fantasy Football League Charter
  
 League Name: Volatile
 Established: 2024
