@@ -259,10 +259,9 @@
 <h2>Conduct Detrimental to the League</h2>
 <p>&nbsp;</p>
 <p>League members may be removed at any time if they engage in conduct detrimental to the league. Such conduct includes but is not limited to:</p>
-<h1>&nbsp;</h1>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harassment or abusive behavior</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pattern of unresponsiveness</p>
-<h1>&nbsp;</h1>
+<p>&nbsp;</p>
 <h2>Removal</h2>
 <p>&nbsp;</p>
 <p>In the event of a decision to remove a member, after informing the offending member of the decision, the member will have a minimum of 48 hours to appeal the decision.</p>
