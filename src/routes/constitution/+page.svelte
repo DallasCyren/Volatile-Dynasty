@@ -1,5 +1,19 @@
 <p><strong>A Volatile Fantasy Football League Charter</strong></p>
-<p>&nbsp;</p>
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Margin Example</title> 
+    <style> 
+        body { 
+            margin: 20px; /* Adjust the margin as needed */ 
+        } 
+    </style> 
+</head> 
+<body> 
+</body> 
+</html> <p>&nbsp;</p>
 <p>League Name: Volatile</p>
 <p>Established: 2024</p>
 <p>Commissioner: Jacob Lunsford</p>
