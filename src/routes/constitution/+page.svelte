@@ -262,7 +262,7 @@
 <h1>&nbsp;</h1>
 <h1>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harassment or abusive behavior</h1>
 <h1>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pattern of unresponsiveness</h1>
-<h1>&nbsp;</h2>
+<h1>&nbsp;</h1>
 <h1>Removal</h1>
 <p>&nbsp;</p>
 <p>In the event of a decision to remove a member, after informing the offending member of the decision, the member will have a minimum of 48 hours to appeal the decision.</p>
