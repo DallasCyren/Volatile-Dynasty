@@ -1,4 +1,4 @@
-html {
+{
     margin: 1em; /* Adds a margin of 1em around the entire page */
 }
 <p><strong>A Volatile Fantasy Football League Charter</strong></p>
