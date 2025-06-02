@@ -1,11 +1,5 @@
 
 <p><strong>A Volatile Fantasy Football League Charter</strong></p>
-<style>
-	p {
-		color: goldenrod;
-		font-family: 'Arial';
-		font-size: 2em;
-}
 <!DOCTYPE html> 
 <html lang="en"> 
 <head> 
